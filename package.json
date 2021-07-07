@@ -1,0 +1,22 @@
+{
+  "name": "event-snitch",
+  "version": "1.0.0",
+  "description": "generate log from lambda events ",
+  "main": "generateLog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiyas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyaskk/event-snitch.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "bugs": {
+    "url": "https://github.com/shiyaskk/event-snitch/issues"
+  },
+  "homepage": "https://github.com/shiyaskk/event-snitch#readme"
+}
